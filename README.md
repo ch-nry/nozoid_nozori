@@ -7,5 +7,3 @@ You can learn more about Nozori here: http://nozoid.com/nozori/
 # Update Your Firmware
 
 You can read more about updating your Nozori's firmware here: https://nozoid.com/update-nozori-software/
-
-You can read more about updating your OSC-2 or MMO-3 synth firmware here: http://nozoid.com/update-your-synth/
