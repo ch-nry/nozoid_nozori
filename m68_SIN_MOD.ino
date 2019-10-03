@@ -15,7 +15,7 @@
 //    along with NOZORI firmware. If not, see <http://www.gnu.org/licenses/>.
 // --------------------------------------------------------------------------
 
-// sinus oscillator with a waveshapper
+// sinus oscillator with a waveshaper
 // Pot 1 : FQ
 // Pot 2 : Mod Fq (or fine if nothing is connected on the modulation)
 // Pot 3 : gain modulation 1
