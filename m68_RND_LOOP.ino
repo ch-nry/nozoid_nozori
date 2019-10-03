@@ -15,7 +15,7 @@
 //    along with NOZORI firmware. If not, see <http://www.gnu.org/licenses/>.
 // -------------------------------------------------------------------------- 
 
-// RND LOOP : random value to generate a slowlly evolving LFO, or VCO
+// RND LOOP : random value to generate a slowly evolving LFO, or VCO
 // Pot 1 : clock fq
 // Pot 2 : Mod clock
 // Pot 3 : nb step (1, 2, 3, 4, 5, 6, 7, 8, 12, 16, 24, 32)
