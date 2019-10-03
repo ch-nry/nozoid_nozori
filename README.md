@@ -1,4 +1,4 @@
-# Nozori
+# nozoïd Nozori
 
 Nozori is a platform made by NOZOÏD. This platform can morph into multiple eurorack modules. The code can be easily customized to get even more functionality.
 
