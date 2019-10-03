@@ -15,7 +15,7 @@
 //    along with NOZORI firmware. If not, see <http://www.gnu.org/licenses/>.
 // -------------------------------------------------------------------------- 
 
-// sine oscillator with a waveshaper
+// sinus oscillator with a waveshaper
 // Pot 1 : Delay time
 // Pot 2 : Mod time
 // Pot 3 : audio IN gain
