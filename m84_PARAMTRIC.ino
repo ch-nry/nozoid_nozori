@@ -15,7 +15,7 @@
 //    along with NOZORI firmware. If not, see <http://www.gnu.org/licenses/>.
 // --------------------------------------------------------------------------
 
-// parametric oscilator : diferents points can be manually adjusted
+// parametric oscillator : different points can be manually adjusted
 // Pot 1 : FQ
 // Pot 2 : Mod Fq (or fine if nothing is connected on the modulation)
 // Pot 3 : A1
