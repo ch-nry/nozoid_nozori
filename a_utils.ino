@@ -15,7 +15,7 @@
 //    along with NOZORI firmware. If not, see <http://www.gnu.org/licenses/>.
 // --------------------------------------------------------------------------
 
-// this file regroup usefull generic function
+// this file regroup useful generic function
 
 inline uint32_t m_u32xu32_u32H(uint32_t in1, uint32_t in2) {
   uint32_t outH, outL;
