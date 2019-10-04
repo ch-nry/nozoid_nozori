@@ -15,7 +15,7 @@
 //    along with NOZORI firmware. If not, see <http://www.gnu.org/licenses/>.
 // -------------------------------------------------------------------------- 
 
-// sinus oscillator with a waveshapper
+// sinus oscillator with a waveshaper
 // Pot 1 : Delay time
 // Pot 2 : Mod time
 // Pot 3 : audio IN gain
@@ -106,7 +106,7 @@ inline void Delay_audio_() {
   toggle = toggle_global;
 
   // syncro
-  nb_tick = min(0x0007FFFF, nb_tick+1); // to prvent overflow with multiplier
+  nb_tick = min(0x0007FFFF, nb_tick+1); // to prevent overflow with multiplier
   if( (last_clock_ == 0) && (CV1_connect < 60) && (CV_filter16_out[index_filter_cv1] > 0xB000) ) { // mode syncro, on a une syncro
     last_clock_ = 1;
     nb_tick /= clock_multiplieur; // reversed because we use the period, not the frequency
