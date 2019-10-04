@@ -16,7 +16,7 @@
 // --------------------------------------------------------------------------
 
 
-// Stockastique clock + ADSR + VCA
+// Stochastic clock + ADSR + VCA
 // Pot 1 : Clock FQ
 // Pot 2 : A
 // Pot 3 : Hold %
@@ -32,7 +32,7 @@
 // OUT 2 : ADSR  / audio
 
 // ADSR : Attack curve
-// this variable can be in betwwen this 2 exterm value:
+// this variable can be in between these 2 extreme values:
 // 0X47000000 : for slow curve
 // 0x7FFFFFFF : for hard curve
 // default is 0x7FFFFFFF
