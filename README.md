@@ -1,5 +1,9 @@
-Nozori is a platform may by NOZOÏD.
-http://nozoid.com/nozori/
+# nozoïd Nozori
 
-This platform can morph into multiple eurorack module.
-The code can easilly be customized to get even more fuctionality.
+Nozori is a platform made by NOZOÏD. This platform can morph into multiple eurorack modules. The code can be easily customized to get even more functionality.
+
+You can learn more about Nozori here: http://nozoid.com/nozori/
+
+# Update Your Firmware
+
+You can read more about updating your Nozori's firmware here: https://nozoid.com/update-nozori-software/
